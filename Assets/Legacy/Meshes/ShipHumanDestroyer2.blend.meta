@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: e14fe2d37d6288b499b5fd3d1465b24a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: CanardLeft
+    100002: CanardRight
+    100004: EngineMainCenter
+    100006: EngineMainLeft
+    100008: EngineMainRight
+    100010: //RootNode
+    100012: TorpedoDoorsLeft
+    100014: TorpedoDoorsRight
+    100016: Triple_Turret_Retraction_000
+    100018: Triple_Turret_Retraction_001
+    100020: Triple_Turret_Retraction_002
+    100022: Triple_Turret_Top_000
+    100024: Triple_Turret_Top_001
+    100026: Triple_Turret_Top_002
+    100028: TurretBottom
+    100030: TurretTopFront
+    100032: TurretTopRear
+    100034: WingLeft
+    100036: WingRight
+    400000: CanardLeft
+    400002: CanardRight
+    400004: EngineMainCenter
+    400006: EngineMainLeft
+    400008: EngineMainRight
+    400010: //RootNode
+    400012: TorpedoDoorsLeft
+    400014: TorpedoDoorsRight
+    400016: Triple_Turret_Retraction_000
+    400018: Triple_Turret_Retraction_001
+    400020: Triple_Turret_Retraction_002
+    400022: Triple_Turret_Top_000
+    400024: Triple_Turret_Top_001
+    400026: Triple_Turret_Top_002
+    400028: TurretBottom
+    400030: TurretTopFront
+    400032: TurretTopRear
+    400034: WingLeft
+    400036: WingRight
+    2100000: unnamed
+    2300000: CanardLeft
+    2300002: CanardRight
+    2300004: EngineMainCenter
+    2300006: EngineMainLeft
+    2300008: EngineMainRight
+    2300010: //RootNode
+    2300012: TorpedoDoorsLeft
+    2300014: TorpedoDoorsRight
+    2300016: Triple_Turret_Retraction_000
+    2300018: Triple_Turret_Retraction_001
+    2300020: Triple_Turret_Retraction_002
+    2300022: Triple_Turret_Top_000
+    2300024: Triple_Turret_Top_001
+    2300026: Triple_Turret_Top_002
+    2300028: TurretBottom
+    2300030: TurretTopFront
+    2300032: TurretTopRear
+    2300034: WingLeft
+    2300036: WingRight
+    3300000: CanardLeft
+    3300002: CanardRight
+    3300004: EngineMainCenter
+    3300006: EngineMainLeft
+    3300008: EngineMainRight
+    3300010: //RootNode
+    3300012: TorpedoDoorsLeft
+    3300014: TorpedoDoorsRight
+    3300016: Triple_Turret_Retraction_000
+    3300018: Triple_Turret_Retraction_001
+    3300020: Triple_Turret_Retraction_002
+    3300022: Triple_Turret_Top_000
+    3300024: Triple_Turret_Top_001
+    3300026: Triple_Turret_Top_002
+    3300028: TurretBottom
+    3300030: TurretTopFront
+    3300032: TurretTopRear
+    3300034: WingLeft
+    3300036: WingRight
+    4300000: Ship
+    4300002: WingRight
+    4300004: WingLeft
+    4300006: TorpedoDoorsRight
+    4300008: TorpedoDoorsLeft
+    4300010: TurretBottom
+    4300012: Triple_Turret_Retraction_000
+    4300014: Triple_Turret_Top_001
+    4300016: TurretTopFront
+    4300018: Triple_Turret_Retraction_002
+    4300020: Triple_Turret_Top_002
+    4300022: CanardRight
+    4300024: CanardLeft
+    4300026: EngineMainCenter
+    4300028: TurretTopRear
+    4300030: Triple_Turret_Retraction_001
+    4300032: Triple_Turret_Top_000
+    4300034: EngineMainLeft
+    4300036: EngineMainRight
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
